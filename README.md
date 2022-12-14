@@ -3,7 +3,7 @@ En este repositorio, se presenta una solución al problema de las N reinas.
 
 # Descripción del problema
 
-El objetivo de este problema correspondea situar en un tablero de N×N, N reinas de tal manera que no se ataquen entre ellas.
+El objetivo de este problema corresponde a situar en un tablero de N×N, N reinas de tal manera que no se ataquen entre ellas.
 Se busca reportar y analizar el tiempo de CPU, para varios valores de
 N≥4, obtenidos al resolver este problema con Backtracking Cronológico para dos representaciones distintas.
 
