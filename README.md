@@ -13,5 +13,5 @@ una casilla, mientras que un 0 que no.
 La segunda versión del problema sitúa el espacio de búsqueda en una lista de tamaño N, dónde cada nodo corresponde a una fila y el valor almacenado en él a la reina 
 en su respectiva columna
 
-Se utilizó la recursión como herramienta para tratar este problema, la implementación fue en Python y no requirió librerias externas.
+Se utilizó la recursión como herramienta para tratar este problema, la implementación fue en Python y no requirió librerias externas en su resolución.
 
